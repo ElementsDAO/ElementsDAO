@@ -9,6 +9,6 @@ Feel free to provide your ideas and feedback. Thanks!
 - [002 Investment Platform 👀](https://github.com/ElementsDAO/ElementsDAO/discussions/5)
 - [003 Application Contract 👀](https://github.com/ElementsDAO/ElementsDAO/discussions/6)
 - [004 Bug Bounty 👀](https://github.com/ElementsDAO/ElementsDAO/discussions/7)
-- 005 Internal Governance Model 
+- [005 Internal Governance Model 👀](https://github.com/ElementsDAO/ElementsDAO/discussions/8)
 - 006 Decentralized autonomous organization (DAO) 
 - 007 Staking 
